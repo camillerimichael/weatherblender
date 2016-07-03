@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['temperaturelowerlimit',['TemperatureLowerLimit',['../class_weather_blender_1_1_weather_conditions_manager.html#abb2f154772dd3a99390dd72e85f463c1',1,'WeatherBlender::WeatherConditionsManager']]],
-  ['temperatureupperlimit',['TemperatureUpperLimit',['../class_weather_blender_1_1_weather_conditions_manager.html#a066d76e0f927c997a3a5f0ca5b4173a1',1,'WeatherBlender::WeatherConditionsManager']]]
+  ['getwinddirection',['GetWindDirection',['../class_weather_blender_1_1_weather_conditions_manager.html#a6c7b48d011ab9dd263486e13f0c620dc',1,'WeatherBlender::WeatherConditionsManager']]],
+  ['getwindforce',['GetWindForce',['../class_weather_blender_1_1_weather_conditions_manager.html#ac5a1b6b49e548dd9a4a5880b8ebda905',1,'WeatherBlender::WeatherConditionsManager']]]
 ];

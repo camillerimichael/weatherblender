@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['colour',['colour',['../struct_weather_blender_1_1_weather_light_manager_1_1_colour_entry.html#a68a4e7fa742c27a3bcaed20973246890',1,'WeatherBlender::WeatherLightManager::ColourEntry']]]
+  ['areaaction',['areaAction',['../class_weather_blender_1_1_area_manager.html#a02f7728346b0c8c393f7711c194f9ffd',1,'WeatherBlender::AreaManager']]],
+  ['areamanager',['areaManager',['../class_weather_blender_1_1_weather_message.html#a661d78b11c9d1835f91c0b3cbe1d7834',1,'WeatherBlender::WeatherMessage']]]
 ];

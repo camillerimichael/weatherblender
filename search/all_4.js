@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['humidity',['humidity',['../class_weather_blender_1_1_weather_conditions.html#afca31617bc5e8b5a6dcf15f31cdd6719',1,'WeatherBlender::WeatherConditions']]],
-  ['humiditychanged',['humidityChanged',['../class_weather_blender_1_1_weather_conditions_manager.html#afd9894f548922bac4c51ba7322010578',1,'WeatherBlender::WeatherConditionsManager']]],
-  ['humidityrandomiser',['HumidityRandomiser',['../class_weather_blender_1_1_humidity_randomiser.html',1,'WeatherBlender']]],
-  ['humidityrandomiser_2ecs',['HumidityRandomiser.cs',['../_humidity_randomiser_8cs.html',1,'']]]
+  ['days',['Days',['../interface_weather_blender_1_1_i_weather_timer.html#ae706c5de62e75a5db4b8ea249187d0bf',1,'WeatherBlender.IWeatherTimer.Days()'],['../class_weather_blender_1_1_weather_prediction_timer.html#af756751d91de5399198dec3f783f1669',1,'WeatherBlender.WeatherPredictionTimer.Days()'],['../class_weather_blender_1_1_weather_timer.html#a1f4e4557a15b74489dd173c4b65bb1b0',1,'WeatherBlender.WeatherTimer.Days()'],['../class_weather_blender_1_1_weather_timer_abstract.html#a4579c4b40c8d38550ec8150c46da2c17',1,'WeatherBlender.WeatherTimerAbstract.Days()']]]
 ];

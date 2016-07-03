@@ -1,22 +1,11 @@
 var searchData=
 [
-  ['weatherconditions',['WeatherConditions',['../class_weather_blender_1_1_weather_conditions.html',1,'WeatherBlender']]],
-  ['weatherconditionseditor',['WeatherConditionsEditor',['../class_weather_blender_1_1_weather_conditions_editor.html',1,'WeatherBlender']]],
-  ['weatherconditionsmanager',['WeatherConditionsManager',['../class_weather_blender_1_1_weather_conditions_manager.html',1,'WeatherBlender']]],
-  ['weathergroup',['WeatherGroup',['../class_weather_blender_1_1_weather_group.html',1,'WeatherBlender']]],
-  ['weathergroupwizard',['WeatherGroupWizard',['../class_weather_blender_1_1_weather_group_wizard.html',1,'WeatherBlender']]],
-  ['weatherlightmanager',['WeatherLightManager',['../class_weather_blender_1_1_weather_light_manager.html',1,'WeatherBlender']]],
-  ['weathermanager',['WeatherManager',['../class_weather_blender_1_1_weather_manager.html',1,'WeatherBlender']]],
-  ['weathermanagereditor',['WeatherManagerEditor',['../class_weather_blender_1_1_weather_manager_editor.html',1,'WeatherBlender']]],
-  ['weathermanagerwindow',['WeatherManagerWindow',['../class_weather_blender_1_1_weather_manager_window.html',1,'WeatherBlender']]],
-  ['weathermessage',['WeatherMessage',['../class_weather_blender_1_1_weather_message.html',1,'WeatherBlender']]],
-  ['weathermessageeditor',['WeatherMessageEditor',['../class_weather_blender_1_1_weather_message_editor.html',1,'WeatherBlender']]],
-  ['weatherstate',['WeatherState',['../class_weather_blender_1_1_weather_state.html',1,'WeatherBlender']]],
-  ['weatherstaterandompicker',['WeatherStateRandomPicker',['../class_weather_blender_1_1_weather_state_random_picker.html',1,'WeatherBlender']]],
-  ['weatherstateweighting',['WeatherStateWeighting',['../class_weather_blender_1_1_weather_state_random_picker_1_1_weather_state_weighting.html',1,'WeatherBlender::WeatherStateRandomPicker']]],
-  ['weatherstatewizard',['WeatherStateWizard',['../class_weather_blender_1_1_weather_state_wizard.html',1,'WeatherBlender']]],
-  ['wetnessrandomiser',['WetnessRandomiser',['../class_weather_blender_1_1_wetness_randomiser.html',1,'WeatherBlender']]],
-  ['winddirectionvisualiser',['WindDirectionVisualiser',['../class_weather_blender_1_1_wind_direction_visualiser.html',1,'WeatherBlender']]],
-  ['windforcerandomiser',['WindForceRandomiser',['../class_weather_blender_1_1_wind_force_randomiser.html',1,'WeatherBlender']]],
-  ['windrandomiser',['WindRandomiser',['../class_weather_blender_1_1_wind_randomiser.html',1,'WeatherBlender']]]
+  ['scenerendersettings',['SceneRenderSettings',['../class_weather_blender_1_1_scene_render_settings.html',1,'WeatherBlender']]],
+  ['scriptableobjectfactory',['ScriptableObjectFactory',['../class_scriptable_object_factory.html',1,'']]],
+  ['scriptableobjectwindow',['ScriptableObjectWindow',['../class_scriptable_object_window.html',1,'']]],
+  ['singleton',['Singleton',['../class_singleton.html',1,'']]],
+  ['singleton_3c_20scenerendersettings_20_3e',['Singleton&lt; SceneRenderSettings &gt;',['../class_singleton.html',1,'']]],
+  ['singleton_3c_20skytint_20_3e',['Singleton&lt; SkyTint &gt;',['../class_singleton.html',1,'']]],
+  ['skyboxblender',['SkyBoxBlender',['../class_weather_blender_1_1_sky_box_blender.html',1,'WeatherBlender']]],
+  ['skytint',['SkyTint',['../class_weather_blender_1_1_sky_tint.html',1,'WeatherBlender']]]
 ];
